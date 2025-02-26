@@ -1,0 +1,12 @@
+[submodule "exercicio1"]
+	path = exercicio1
+	url = https://github.com/aylamich/helloicp.git
+[submodule "exercicio2"]
+	path = exercicio2
+	url = https://github.com/aylamich/conceitosbasicosmotoko
+[submodule "exercicio3"]
+	path = exercicio3
+	url = https://github.com/aylamich/listadepessoasmotoko.git
+[submodule "exercicio4"]
+	path = exercicio4
+	url = https://github.com/aylamich/to_do.git
